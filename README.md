@@ -109,6 +109,21 @@ The required Python packages are listed in [requirements.txt](requirements.txt).
 ## Project status
 
 GestureOS is an exhibition project. Gesture recognition and control can vary with webcam quality, lighting, hand position, and system configuration.
+**Why We Built GestureOS**
+
+We use computers every day, but most interactions still depend on physical devices like a mouse and keyboard.
+
+We asked ourselves: What if we could control a computer just by moving our hands?
+
+That question inspired us to build GestureOS.
+
+GestureOS is a touchless computer control system powered by computer vision and hand gesture recognition. It uses a webcam to recognize hand movements and translate them into computer commands.
+
+With it, users can move the cursor, click, scroll, navigate presentation slides, adjust volume and open applications without directly touching their computer.
+
+We built this project to explore new possibilities in human-computer interaction, including accessibility, touch-free interfaces and smarter ways of using technology.
+
+**GestureOS — Your hands are the controller.**
 
 ---
 
