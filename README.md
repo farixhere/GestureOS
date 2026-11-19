@@ -96,6 +96,7 @@ GestureOS/
 │   ├── mouse_control.py
 │   └── system_commands.py
 ├── main.py
+├── settings.py          # Empty placeholder; not currently used
 ├── requirements.txt
 ├── README.md
 └── .gitignore
