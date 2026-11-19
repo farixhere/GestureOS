@@ -99,7 +99,7 @@ print("THREE FINGERS      : DOUBLE CLICK")
 print("OPEN PALM          : PAUSE / RESUME")
 
 print("\nCUSTOM EXHIBITION COMMANDS")
-print("FIST               : SCREENSHOT")
+print("INDEX + PINKY      : SCREENSHOT")
 print("THUMBS UP          : CALCULATOR")
 print("PINKY ONLY         : NOTEPAD")
 print("INDEX + RING       : VOLUME UP")
